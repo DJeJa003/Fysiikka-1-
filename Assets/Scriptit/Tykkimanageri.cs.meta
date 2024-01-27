@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 47e3d34452ab90743a9efaf805459b8c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Ball: {fileID: 7911456813330357576, guid: 851dd3764cd709942970ecb67a7d50f4, type: 3}
+  - LaunchPoint: {instanceID: 0}
+  - lineRenderer: {instanceID: 0}
+  - cameraFollowScript: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

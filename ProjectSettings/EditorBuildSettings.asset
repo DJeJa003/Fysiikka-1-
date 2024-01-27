@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/mainmenu.unity
+    guid: cf9625dd043c45241b676952e5020045
+  - enabled: 1
+    path: Assets/Scenes/Tykki.unity
+    guid: fac51c77ed500b84992105ec6460d6ed
+  - enabled: 1
+    path: Assets/Scenes/MikonScene.unity
+    guid: 9ebbf306a236eed4688a788e7b956499
+  - enabled: 1
+    path: Assets/Scenes/JereScene.unity
+    guid: f96496be26759e441a404615c827e6d7
+  - enabled: 0
+    path: Assets/Scenes/Collision.unity
+    guid: 694e031aa21049f409ffc91f3f065d13
+  m_configObjects: {}

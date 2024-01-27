@@ -1,0 +1,4 @@
+repository "Fysiikka@Fysiikka@cloud"
+  path "/"
+    br "/main"
+    co "/main"
